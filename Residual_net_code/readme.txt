@@ -1,0 +1,1 @@
+Change name of resnet_rl_bn.py to resent.py to use the resent model with rl->bn configuration
